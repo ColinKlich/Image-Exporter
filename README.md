@@ -51,10 +51,6 @@ This PowerShell script automates the extraction of image files from multiple SQL
           └── 123456_2.jpg
 ```
 
-## Customization
-
-- To add or remove databases, edit the `$imageDatabases` array.
-- To change the output location, modify the `$outputFolder` logic.
 
 ## Disclaimer
 
